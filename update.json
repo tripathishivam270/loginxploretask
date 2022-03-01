@@ -1,0 +1,12 @@
+//method:'UPDATE'
+ 	  body:
+ 	  	{
+     "token": "90938855|-31948833744378019|90945768",
+     "cmd": "UPDATE",
+     "dbName": "Employee",
+     "rel": "Emp-Rel",
+     "jsonStr": {
+           "2":{"name":"shivam"}
+        "1":{"mobile":"7021863543"}
+ 	  }
+     }

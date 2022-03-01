@@ -1,0 +1,10 @@
+//method:'REMOVE'
+ 	  body:{
+ 	  	{
+     "token": "90938855|-31948833744378019|90945768",
+     "cmd": "REMOVE",
+     "dbName": "Employee",
+     "rel": "Emp-Rel",
+     "record": 1
+ }
+	  }

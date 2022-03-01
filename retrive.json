@@ -1,0 +1,11 @@
+ //method: 'GET',
+    body: {
+
+    "token": "90938855|-31948833744378019|90945768",
+    "dbName": "Employee",
+    "cmd": "GET",
+    "rel": "Emp-Rel",
+    "jsonStr": {
+        "email": "tripathianshuman138@gmail.com"
+    }
+   }

@@ -1,0 +1,13 @@
+//method:'PUT'
+    body:
+    	{
+    "token": "90938855|-31948833744378019|90945768",
+    "cmd": "PUT",
+    "dbName": "Employee",
+    "rel": "Emp-Rel",
+    "jsonStr": {
+        "name": "ansh",
+        "email": "tripathianshuman101@gmail.com",
+      "mobile":9133333333
+        }
+	  }
